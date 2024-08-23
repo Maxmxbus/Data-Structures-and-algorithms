@@ -139,3 +139,5 @@ class LinkedList {
         previous.nextNode = previous.nextNode.nextNode;
     }
 }
+
+module.exports = LinkedList;
